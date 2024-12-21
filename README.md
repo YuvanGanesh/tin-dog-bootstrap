@@ -12,7 +12,7 @@ A responsive website for a fictional dog dating service, created using HTML, CSS
 - Bootstrap
 
 ## Demo
-View it live here: [GitHub Pages Link]()
+View it live here: [GitHub Pages Link](https://yuvanganesh.github.io/tin-dog-bootstrap/)
 
 ## How to Use
-1. Clone the repository: 
+1. Clone the repository: https://github.com/YuvanGanesh/tin-dog-bootstrap
